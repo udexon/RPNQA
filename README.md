@@ -15,7 +15,20 @@ Add link first, GOEHDOM? etc? then add text?
 
 https://github.com/udexon/GOEHDOM
 
-Prolog Forth ....
+List at least 5 questions and answers to illustrate
+
+Describe google search, map, chess, computer algebra system etc, programmers modifying source code. 
+
+The global collective Intelligence (GCI) consists of programmers modifying code, servers running existing code, user feedback ...
+
+Free Software repositories have large samples of code change to verify our model.
+
+Examples ....
+
+GOEHDOM. model code change as Q&A, metaprogramming questions. 
+
+
+#### Prolog Forth
 
 Ever since the term artificial intelligence was coined at the Dartmouth College conference, it has suffered from fragmentation of discipline and methods. 
 
