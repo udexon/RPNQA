@@ -1,6 +1,17 @@
 # RPNQA
 Representation of Questions and Answers using Reverse Polish Notation
 
+### Collective Intelligence
+
+3 ideas: RPN, QA, Delegation
+
+We propose a model of collective intelligence involving human and machine based on delegation, question and answer, and reverse Polish notation.
+
+Delegation and Q&A are conventional. RPN applied to Q&A is novel. Although RPN has a long history, the breakthrough occurred when we successful implemented a generalized inverse of the shunting yard algorithm. As such, we are now able to implement shells executing Forth like RPN commands in any known host programming language. Further, since RPN can be used to represent fundamental mathematical structures, we now have established a practical method to unify all programming languages and mathematics, enabling us to use RPN to represent questions and answers from the lowest and the most fundamental levels to the highest and most abstract levels.
+
+To illustrate ....
+
+Prolog Forth ....
 
 Ever since the term artificial intelligence was coined at the Dartmouth College conference, it has suffered from fragmentation of discipline and methods. 
 
