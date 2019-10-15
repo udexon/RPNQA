@@ -11,6 +11,10 @@ Delegation and Q&A are conventional. RPN applied to Q&A is novel. Although RPN h
 
 To illustrate ....
 
+Add link first, GOEHDOM? etc? then add text?
+
+https://github.com/udexon/GOEHDOM
+
 Prolog Forth ....
 
 Ever since the term artificial intelligence was coined at the Dartmouth College conference, it has suffered from fragmentation of discipline and methods. 
