@@ -5,6 +5,17 @@ Representation of Questions and Answers using Reverse Polish Notation
 
 Question and Answer representation using Reverse Polish Notation
 
+Ever since the term artificial intelligence was coined at the Dartmouth College conference, it has suffered from fragmentation of discipline and methods. 
+Curiously, the solution that we propose actually dates back to the same era of Dartmouth, but was overlooked due to ....
+
+
+RPN and QA are two areas in machine and human cognition that can unify methods in machine and human cognition respectively.
+
+
+
+
+
+
 Although we do not know the detailed neural mechanisms of ourselves getting an answer for a question, we are able to express both question and answer as text or graphics. Using RPN, we can simulate the mechanisms to associate the question and answer, as they are explicitly representable as text and graphics.
 
 Categories of Question and Answer Pair:
