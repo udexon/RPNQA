@@ -1,9 +1,6 @@
 # RPNQA
 Representation of Questions and Answers using Reverse Polish Notation
 
-Representation of Questions and Answers using Reverse Polish Notation
-
-Question and Answer representation using Reverse Polish Notation
 
 Ever since the term artificial intelligence was coined at the Dartmouth College conference, it has suffered from fragmentation of discipline and methods. 
 
