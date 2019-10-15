@@ -20,7 +20,7 @@ RPN and QA are two areas in machine and human cognition that can unify methods i
 Although we do not know the detailed neural mechanisms of ourselves getting an answer for a question, we are able to express both question and answer as text or graphics. Using RPN, we can simulate the mechanisms to associate the question and answer, as they are explicitly representable as text and graphics.
 
 
-We propose a model ... based on RPN and Q&A ... Breakthrough is in homoiconicity and the mechanism to create rules from rules.
+We propose a model ... based on RPN and Q&A ... with a realistic and verifiable timeline to achieve human level artificial intelligence (HLAI). Breakthrough is in homoiconicity and the mechanism to create rules from rules.
 
 Categories of Question and Answer Pair:
 
