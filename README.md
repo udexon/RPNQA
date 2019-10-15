@@ -14,6 +14,8 @@ RPN and QA are two areas in machine and human cognition that can unify methods i
 
 Delegation vs. intelligence? Perhaps we are shooting for wrong targets by insisting machine that can do everything! Because human cannot!
 
+Elaborate collective intelligence as upper limit of machine intelligence. Else conventional AI expects too much of AI.
+
 
 
 
