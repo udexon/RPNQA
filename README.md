@@ -10,7 +10,9 @@ Ever since the term artificial intelligence was coined at the Dartmouth College 
 Curiously, the solution that we propose actually dates back to the same era of Dartmouth, but was overlooked due to ....
 
 
-RPN and QA are two areas in machine and human cognition that can unify methods in machine and human cognition respectively.
+RPN and QA are two areas in machine and human cognition that can unify methods in machine and human cognition respectively. RPN is bottom up, includes code and mathematics. QA is top down, with black boxes. Question is if these black boxes can be filled with RPN? Note, even human beings are mostly good at delegation -- until found experts who can do it, not really intelligent!!
+
+Delegation vs. intelligence? Perhaps we are shooting for wrong targets by insisting machine that can do everything! Because human cannot!
 
 
 
